@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle:
 
 profile:
   align: right
@@ -19,11 +19,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am Andre, a PhD student in Physics at the University of Rome "Tor Vergata" and at Institut Polythecnic Paris. I am supervised by [Luca Biferale](https://biferale.web.roma2.infn.it/) in Rome and [Kiwon Um](https://perso.telecom-paristech.fr/kum/) and [Mathieu Desbrun](https://www.inria.fr/en/mathieu-desbrun) in Paris. This research is funded by the European Union, via the Marie Skłodowska-Curie Actions (MSCA) programme. My research focus on closure problems in fluid dynamics and turbulence through differentiable solvers and their integration into the learning process of deep neural networks. 
+Hi! 
 
-Before this, I did my MSc in Aerospace Engineering at TU Delft, with a focus on numerical methods for fluid dynamics. I did my thesis at the Nuclear Research & consultancy Group (NRG) in Petten, supervised by [Dr.ir. Alexander van Zuijlen](https://www.tudelft.nl/staff/a.h.vanzuijlen/?cHash=ca8aca12e38995f190218464bde31b5b) and [ir. Kevin Zwijsen](https://www.linkedin.com/in/kevin-zwijsen-86432810b/?originalSubdomain=nl). We worked on an in-house anisotropic pressure fluctuations model.
+I'm a PhD student in Physics at the University of Rome "Tor Vergata" and at Institut Polythecnic Paris. I am supervised by [Luca Biferale](https://biferale.web.roma2.infn.it/) in Rome and [Kiwon Um](https://perso.telecom-paristech.fr/kum/) and [Mathieu Desbrun](https://www.inria.fr/en/mathieu-desbrun) in Paris. This research is funded by the European Union, via the Marie Skłodowska-Curie Actions (MSCA) programme. My research focus on closure problems in fluid dynamics and turbulence through differentiable solvers and their integration into the learning process of deep neural networks. 
 
-Currently, I am very interested in the application of ML/DL to physics, more spefically fluid dynamics and turbulence. Reach out if you would like to discuss any related topic :)
+Before this, I did my MSc in Aerospace Engineering at TU Delft, with a focus on numerical methods for fluid dynamics. I did my thesis at the Nuclear Research & consultancy Group (NRG) in Petten, supervised by [Alexander van Zuijlen](https://www.tudelft.nl/staff/a.h.vanzuijlen/?cHash=ca8aca12e38995f190218464bde31b5b) and [Kevin Zwijsen](https://www.linkedin.com/in/kevin-zwijsen-86432810b/?originalSubdomain=nl). We worked on an in-house anisotropic pressure fluctuations model.
+
+Currently, I am very interested in the application of ML/DL to fluid dynamics. Reach out if you would like to discuss any related topic :)
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
