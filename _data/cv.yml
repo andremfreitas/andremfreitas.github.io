@@ -13,14 +13,14 @@
   contents:
     - title: PhD
       institution: University of Rome "Tor Vergata", Italy & Institut Polythecnic Paris, France
-      year: 2023 - 
+      year: 2023 - Now
       description:
         - Large eddy simulations in a deep learning loop for turbulent flows.
     - title: MSc
       institution: TU Delft, the Netherlands
       year: 2023
       description:
-        - Thesis: Numerical Simulation of Turbulence Induced Vibrations using an Anisotropic Pressure Fluctuations Model
+        - Thesis - Numerical Simulation of Turbulence Induced Vibrations using an Anisotropic Pressure Fluctuations Model
 
 - title: Work Experience
   type: time_table
