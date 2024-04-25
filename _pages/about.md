@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   #more_info: >
   #  <p>Rome, Italy</p>
   #  <p>123 your address street</p>
@@ -21,9 +21,9 @@ social: true # includes social icons at the bottom of the page
 
 Hi! 
 
-I'm a PhD student in Physics at the University of Rome "Tor Vergata" and at Institut Polythecnic Paris. I am supervised by [Luca Biferale](https://biferale.web.roma2.infn.it/) in Rome and [Kiwon Um](https://perso.telecom-paristech.fr/kum/) and [Mathieu Desbrun](https://www.inria.fr/en/mathieu-desbrun) in Paris. This research is funded by the European Union, via the Marie Skłodowska-Curie Actions (MSCA) programme. My research focus on closure problems in fluid dynamics and turbulence through differentiable solvers and their integration into the learning process of deep neural networks. 
+I'm a PhD student in Physics at the University of Rome "Tor Vergata" and at Institut Polythecnic Paris (currently in Rome). I am supervised by [Luca Biferale](https://biferale.web.roma2.infn.it/) in Rome and [Kiwon Um](https://perso.telecom-paristech.fr/kum/) and [Mathieu Desbrun](https://www.inria.fr/en/mathieu-desbrun) in Paris. The research is funded by the European Union, via the Marie Skłodowska-Curie Actions (MSCA) programme. My research focus on closure problems in fluid dynamics and turbulence through the integration of differentiable solvers into the learning process of deep neural networks. 
 
-Before this, I did my MSc in Aerospace Engineering at TU Delft, with a focus on numerical methods for fluid dynamics. I did my thesis at the Nuclear Research & consultancy Group (NRG) in Petten, supervised by [Alexander van Zuijlen](https://www.tudelft.nl/staff/a.h.vanzuijlen/?cHash=ca8aca12e38995f190218464bde31b5b) and [Kevin Zwijsen](https://www.linkedin.com/in/kevin-zwijsen-86432810b/?originalSubdomain=nl). We worked on an in-house anisotropic pressure fluctuations model.
+Before this, I did my MSc in Aerospace Engineering at TU Delft, with a focus on numerical methods for fluid dynamics. I did my thesis at the Nuclear Research & consultancy Group (NRG) in Petten, supervised by [Alexander van Zuijlen](https://www.tudelft.nl/staff/a.h.vanzuijlen/?cHash=ca8aca12e38995f190218464bde31b5b) and [Kevin Zwijsen](https://www.linkedin.com/in/kevin-zwijsen-86432810b/?originalSubdomain=nl). We worked on an in-house anisotropic pressure fluctuations model with application to fluid-structure interaction problems in the context of nuclear reactors.
 
 Currently, I am very interested in the application of ML/DL to fluid dynamics. Reach out if you would like to discuss any related topic :)
 
