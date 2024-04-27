@@ -26,9 +26,8 @@ I'm a PhD student in Physics at the University of Rome "Tor Vergata" and at Inst
 <!-- Before this, I did my MSc in Aerospace Engineering at TU Delft, with a focus on numerical methods for fluid dynamics. I did my thesis at the Nuclear Research & consultancy Group (NRG) in Petten, supervised by [Alexander van Zuijlen](https://www.tudelft.nl/staff/a.h.vanzuijlen/?cHash=ca8aca12e38995f190218464bde31b5b) and [Kevin Zwijsen](https://www.linkedin.com/in/kevin-zwijsen-86432810b/?originalSubdomain=nl). We worked on an in-house anisotropic pressure fluctuations model with application to fluid-structure interaction problems in the context of nuclear reactors. -->
 
 My main research interest is Scientific Machine Learning (SciML) with applications in (computational) fluid dynamics.
-Besides that, I am more generally interested in computational and theoretical approaches to studying turbulence. I'm also interested in Deep Learning and its many subareas.
+Besides that, I am more generally interested in computational and theoretical approaches to studying fluid dynamics and even more generally just scientific computing. I'm also interested in Deep Learning and its many subareas.
 
-Feel free to reach out if you have any research interests in common :)
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
