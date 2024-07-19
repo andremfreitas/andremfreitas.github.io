@@ -11,12 +11,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD - Physics
       institution: University of Rome "Tor Vergata", Italy & Institut Polythecnic Paris, France
       year: 2023 - Now
       description:
         - Large eddy simulations in a deep learning loop for turbulent flows.
-    - title: MSc
+    - title: MSc Aerospace Engineering
       institution: TU Delft, the Netherlands
       year: 2021 - 2023
       description:
