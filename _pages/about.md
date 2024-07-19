@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi!!
+Hi!
 
 I'm a PhD student in Physics at the University of Rome "Tor Vergata" and at Institut Polythecnic Paris (I am currently in Rome). I am supervised by [Luca Biferale](https://biferale.web.roma2.infn.it/) in Rome and [Kiwon Um](https://perso.telecom-paristech.fr/kum/) and [Mathieu Desbrun](https://www.inria.fr/en/mathieu-desbrun) in Paris. The research is funded by the European Union, via the Marie Skłodowska-Curie Actions (MSCA) programme. My research focus on closure problems in fluid dynamics and turbulence through the integration of differentiable solvers into the learning process of deep neural networks. 
 
