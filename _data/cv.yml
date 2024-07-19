@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Andre Freitas
-    - name: Date of Birth
-      value: 13th July 2000
+    # - name: Date of Birth
+    #   value: 13th July 2000
     - name: Languages
       value: English, Portuguese
 
