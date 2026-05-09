@@ -28,7 +28,7 @@ I'm a PhD student in Physics at the University of Rome "Tor Vergata" and at Inst
 My main research interest is Scientific Machine Learning (SciML) with applications in (computational) fluid dynamics.
 Besides that, I am more generally interested in computational and theoretical approaches to studying turbulence. I'm also interested in Deep Learning and its many subareas.
 
-Feel free to reach out if you have any research interests in common.
+Feel free to reach out if you have any research interests in common!
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
