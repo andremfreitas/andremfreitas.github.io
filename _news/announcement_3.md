@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be spending the summer in Los alamos and Stanford (half-half more or less)! Working with Daniel
-Livescu on deep learning for buoyancy-driven turbulence modeling. In Stanford
-we'll be working at the Center of Turbulence Research (CTR) summer program. 
+I’m excited to spend the summer in Los Alamos and Stanford!! I will be working with [Daniel Livescu](https://scholar.google.com/citations?user=9Oek18AAAAAJ&hl=en) on deep-learning for modelling buoyancy-driven turbulence. At Stanford, we'll participate in the Center for Turbulence Research (CTR) Summer Program.
