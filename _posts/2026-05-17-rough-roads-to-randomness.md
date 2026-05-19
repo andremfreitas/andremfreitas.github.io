@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rough roads to randomness
-date: 2026-05-17 00:00:00+0100
+date: 2026-03-25 00:00:00+0100
 description: A short essay on turbulence, anomalous dissipation, and spontaneous stochasticity.
 tags: turbulence randomness fluids
 categories: thoughts
