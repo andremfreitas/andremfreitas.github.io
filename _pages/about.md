@@ -21,15 +21,13 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm André 👋
 
-I'm a PhD student in Physics, split between the University of Rome "Tor Vergata" and Institut Polytechnique de Paris (these days I'm mostly in Rome). I'm lucky to be supervised by [Luca Biferale](https://biferale.web.roma2.infn.it/) in Rome, and [Kiwon Um](https://perso.telecom-paristech.fr/kum/) and [Mathieu Desbrun](https://www.inria.fr/en/mathieu-desbrun) in Paris.
+I'm a PhD student in Physics and Computer Science at the University of Rome "Tor Vergata" and Institut Polytechnique de Paris.
 
-I mostly think about turbulence and how to model it with machine learning: closure models trained with differentiable solvers in the loop, Lagrangian particles, and lately buoyancy-driven flows.
+I'm fascinated by how complex behavior emerges from simple laws, and turbulence is my favorite example: a few innocent-looking equations that produce cascades, intermittency and chaos across a huge range of scales. Most of my work sits where this meets AI for science. I build data-driven closures with differentiable solvers in the loop, learn the dynamics of particles in turbulent flows, and look for minimal systems, like a chain of pendula, that turn out to be turbulent too.
 
 <!-- Before this, I did my MSc in Aerospace Engineering at TU Delft, with a focus on numerical methods for fluid dynamics. I did my thesis at the Nuclear Research & consultancy Group (NRG) in Petten, supervised by [Alexander van Zuijlen](https://www.tudelft.nl/staff/a.h.vanzuijlen/?cHash=ca8aca12e38995f190218464bde31b5b) and [Kevin Zwijsen](https://www.linkedin.com/in/kevin-zwijsen-86432810b/?originalSubdomain=nl). We worked on an in-house anisotropic pressure fluctuations model with application to fluid-structure interaction problems in the context of nuclear reactors. -->
 
-More broadly, I like anything at the intersection of scientific machine learning, deep learning and fluid dynamics, plus the more theoretical side of turbulence.
-
-If any of this overlaps with what you're working on, feel free to reach out!
+If any of this sounds interesting, feel free to reach out!
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
