@@ -19,16 +19,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi!
+Hi, I'm André 👋
 
-I'm a PhD student in Physics at the University of Rome "Tor Vergata" and at Institut Polythecnic Paris (I am currently in Rome). I am supervised by [Luca Biferale](https://biferale.web.roma2.infn.it/) in Rome and [Kiwon Um](https://perso.telecom-paristech.fr/kum/) and [Mathieu Desbrun](https://www.inria.fr/en/mathieu-desbrun) in Paris. The research is funded by the European Union, via the Marie Skłodowska-Curie Actions (MSCA) programme. My research focus on closure problems in fluid dynamics and turbulence through the integration of differentiable solvers into the learning process of deep neural networks. 
+I'm a PhD student in Physics, split between the University of Rome "Tor Vergata" and Institut Polytechnique de Paris (these days I'm mostly in Rome). I'm lucky to be supervised by [Luca Biferale](https://biferale.web.roma2.infn.it/) in Rome, and [Kiwon Um](https://perso.telecom-paristech.fr/kum/) and [Mathieu Desbrun](https://www.inria.fr/en/mathieu-desbrun) in Paris.
+
+I mostly think about turbulence and how to model it with machine learning: closure models trained with differentiable solvers in the loop, Lagrangian particles, and lately buoyancy-driven flows.
 
 <!-- Before this, I did my MSc in Aerospace Engineering at TU Delft, with a focus on numerical methods for fluid dynamics. I did my thesis at the Nuclear Research & consultancy Group (NRG) in Petten, supervised by [Alexander van Zuijlen](https://www.tudelft.nl/staff/a.h.vanzuijlen/?cHash=ca8aca12e38995f190218464bde31b5b) and [Kevin Zwijsen](https://www.linkedin.com/in/kevin-zwijsen-86432810b/?originalSubdomain=nl). We worked on an in-house anisotropic pressure fluctuations model with application to fluid-structure interaction problems in the context of nuclear reactors. -->
 
-My main research interest is Scientific Machine Learning (SciML) with applications in (computational) fluid dynamics.
-Besides that, I am more generally interested in computational and theoretical approaches to studying turbulence. I'm also interested in Deep Learning and its many subareas.
+More broadly, I like anything at the intersection of scientific machine learning, deep learning and fluid dynamics, plus the more theoretical side of turbulence.
 
-Feel free to reach out if you have any research interests in common!
+If any of this overlaps with what you're working on, feel free to reach out!
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
