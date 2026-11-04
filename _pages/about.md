@@ -19,11 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm André!
-
 I'm a PhD student in physics and computer science at Tor Vergata (Rome) and Institut Polytechnique de Paris.
 
-I've always liked how really simple rules can end up producing really complicated behavior. Turbulence is probably the best example of that, so I spend most of my time on it, usually with some machine learning thrown in. I've worked on learning closure models, on particles moving around in turbulent flows, and recently on a chain of pendula that turns out to behave a lot like turbulence.
+I've always liked how really simple rules can end up producing really complicated behavior, and I think turbulence is one of the coolest examples of that. More generally I'm into complex systems, physics, and using AI to do science.
 
 <!-- Before this, I did my MSc in Aerospace Engineering at TU Delft, with a focus on numerical methods for fluid dynamics. I did my thesis at the Nuclear Research & consultancy Group (NRG) in Petten, supervised by [Alexander van Zuijlen](https://www.tudelft.nl/staff/a.h.vanzuijlen/?cHash=ca8aca12e38995f190218464bde31b5b) and [Kevin Zwijsen](https://www.linkedin.com/in/kevin-zwijsen-86432810b/?originalSubdomain=nl). We worked on an in-house anisotropic pressure fluctuations model with application to fluid-structure interaction problems in the context of nuclear reactors. -->
 
