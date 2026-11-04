@@ -718,6 +718,22 @@ footer.sticky-bottom {
         }
       }
 
+      .preview abbr.badge {
+        display: inline-block;
+        margin-bottom: 0.5rem;
+        background-color: var(--global-theme-color);
+        padding-left: 1rem;
+        padding-right: 1rem;
+
+        a {
+          color: white;
+
+          &:hover {
+            text-decoration: none;
+          }
+        }
+      }
+
       .title {
         font-weight: bolder;
       }

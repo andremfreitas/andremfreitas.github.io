@@ -4,3 +4,23 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"PRF":
+  url: https://journals.aps.org/prfluids/
+  color: "#1f5f8b"
+
+"EPL":
+  url: https://iopscience.iop.org/journal/0295-5075
+  color: "#2e7d6b"
+
+"EJMB":
+  url: https://www.sciencedirect.com/journal/european-journal-of-mechanics-b-fluids
+  color: "#b5651d"
+
+"PoF":
+  url: https://pubs.aip.org/aip/pof
+  color: "#6a4c93"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
