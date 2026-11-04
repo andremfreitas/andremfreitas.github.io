@@ -1,3 +1,15 @@
+@misc{freitas2026mzgnn,
+  title = {Learning turbulent transport via Mori--Zwanzig graph neural networks},
+  author = {Andr\'e Freitas and Xander M. de Wit and Alessandro Gabbana and Michael Woodward and Federico Toschi and Yen Ting Lin and Daniel Livescu},
+  year = {2026},
+  eprint = {2606.14918},
+  archivePrefix = {arXiv},
+  primaryClass = {physics.flu-dyn},
+  url = {https://arxiv.org/abs/2606.14918},
+  arxiv = {2606.14918},
+  abstract = {We introduce a Mori--Zwanzig graph neural network (MZ--GNN) framework for learning reduced-order Lagrangian dynamics of tracer particles in homogeneous isotropic turbulence. The model represents particle acceleration as a finite-memory expansion over present and delayed particle-neighborhood graphs, with each memory contribution parameterized by an equivariant message-passing graph neural network. By construction, the architecture respects the relevant physical symmetries of the problem, including permutation equivariance, Galilean invariance, and equivariance under rotations and reflections. Trained on direct numerical simulation data, the model is rolled out autoregressively and evaluated on observables that are not imposed during training. We show that memory is essential for recovering the intermittent, heavy-tailed acceleration statistics, and that the learned dynamics accurately reproduce single-particle dispersion, pair-dispersion statistics, and four-particle tetrad geometry. Our results establish a physically structured, scalable route to data-driven multi-particle simulation of turbulent transport, and a template for learning reduced dynamics of correlated, symmetry-rich particle systems.}
+}
+
 @article{PhysRevFluids.10.044602,
   title = {Solver-in-the-loop approach to closure of shell models of turbulence},
   author = {Freitas, Andr\'e and Um, Kiwon and Desbrun, Mathieu and Buzzicotti, Michele and Biferale, Luca},
@@ -30,14 +42,19 @@
   we discuss potential extensions of this approach to Navier-Stokes equations.}
 }
 
-@misc{freitas2026intermittencysuppressionturbulenceforced,
+@article{Freitas_2026_intermittency,
   title = {Intermittency suppression in turbulence via forced light particles},
-  author = {Andr\'e Freitas and Xander M. de Wit and Ziqi Wang and Luca Biferale and Federico Toschi},
+  author = {Freitas, Andr\'e and de Wit, Xander M. and Wang, Ziqi and Biferale, Luca and Toschi, Federico},
+  journal = {Europhysics Letters},
+  volume = {155},
+  number = {2},
+  pages = {23002},
   year = {2026},
-  eprint = {2508.06660},
-  archivePrefix = {arXiv},
-  primaryClass = {physics.flu-dyn},
-  url = {https://arxiv.org/abs/2508.06660},
+  month = {jun},
+  publisher = {EDP Sciences, IOP Publishing and Societ\`a Italiana di Fisica},
+  doi = {10.1209/0295-5075/ae7756},
+  url = {https://doi.org/10.1209/0295-5075/ae7756},
+  arxiv = {2508.06660},
   preview = {pmin_forced_particles2_transparent.png},
   abstract = {We investigate how turbulence can be reshaped by acting directly
     on vortex filaments through externally actuated light particles, using
