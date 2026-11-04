@@ -21,8 +21,8 @@ social: true # includes social icons at the bottom of the page
 
 I'm a PhD student in physics and computer science at University of Rome "Tor Vergata" and Institut Polytechnique de Paris.
 
-What draws me to physics is emergence: the fact that a handful of simple, local rules, repeated over and over across many interacting pieces, can give rise to behavior none of the pieces have on their own. Think of birds forming a flock, or water molecules suddenly freezing into ice. Turbulence is my favorite example. The equations fit on one line and we've known them for almost two centuries, yet the flows they produce are chaotic, intermittent and full of structure at every scale, and we still can't fully predict or model them.
+What draws me to physics is emergence: how a handful of simple rules, repeated across many interacting pieces, can give rise to complex behavior that none of the pieces have on their own. Turbulence is a great example, but the same question shows up all over science.
 
-More generally I'm into complex systems and statistical physics, and into using AI for science. Not just as a black box, but as a tool that actually respects the physics and helps us understand it better. I also like finding small, simple models that still capture the essence of a hard problem.
+I like to tackle these problems from a few angles at once, mixing pen-and-paper theory, numerical simulations and machine learning. Each one helps keep the others honest, and the interesting stuff usually happens where they meet.
 
 Always happy to chat, so feel free to reach out.
