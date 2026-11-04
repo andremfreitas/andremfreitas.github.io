@@ -19,15 +19,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm André 👋
+Hi, I'm André!
 
-I'm a PhD student in Physics and Computer Science at the University of Rome "Tor Vergata" and Institut Polytechnique de Paris.
+I'm a PhD student in physics and computer science at Tor Vergata (Rome) and Institut Polytechnique de Paris.
 
-I'm fascinated by how complex behavior emerges from simple laws, and turbulence is my favorite example: a few innocent-looking equations that produce cascades, intermittency and chaos across a huge range of scales. Most of my work sits where this meets AI for science. I build data-driven closures with differentiable solvers in the loop, learn the dynamics of particles in turbulent flows, and look for minimal systems, like a chain of pendula, that turn out to be turbulent too.
+I've always liked how really simple rules can end up producing really complicated behavior. Turbulence is probably the best example of that, so I spend most of my time on it, usually with some machine learning thrown in. I've worked on learning closure models, on particles moving around in turbulent flows, and recently on a chain of pendula that turns out to behave a lot like turbulence.
 
 <!-- Before this, I did my MSc in Aerospace Engineering at TU Delft, with a focus on numerical methods for fluid dynamics. I did my thesis at the Nuclear Research & consultancy Group (NRG) in Petten, supervised by [Alexander van Zuijlen](https://www.tudelft.nl/staff/a.h.vanzuijlen/?cHash=ca8aca12e38995f190218464bde31b5b) and [Kevin Zwijsen](https://www.linkedin.com/in/kevin-zwijsen-86432810b/?originalSubdomain=nl). We worked on an in-house anisotropic pressure fluctuations model with application to fluid-structure interaction problems in the context of nuclear reactors. -->
 
-If any of this sounds interesting, feel free to reach out!
+Always happy to chat, so feel free to reach out.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
